@@ -58,6 +58,9 @@
             <mxPoint x="720" y="472.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WRIWoyoz8QD9gwkPITXm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbofEBhgAy4hswmdLueh-16" target="rbofEBhgAy4hswmdLueh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbofEBhgAy4hswmdLueh-16" value="扫码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="400" width="80" height="35" as="geometry" />
         </mxCell>
