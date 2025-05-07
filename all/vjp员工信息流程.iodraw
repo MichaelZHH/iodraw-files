@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rbofEBhgAy4hswmdLueh-1" value="任何vivaia.jp域名的页面url中添加参数&amp;lt;staff_code=员工名称&amp;gt;并且&amp;lt;已登录状态&amp;gt;都会把当前员工姓名绑定到客人信息中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="680" height="60" as="geometry" />
+          <mxGeometry x="40" y="80" width="760" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WRIWoyoz8QD9gwkPITXm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbofEBhgAy4hswmdLueh-3" target="WRIWoyoz8QD9gwkPITXm-3">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="460" y="285" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="rbofEBhgAy4hswmdLueh-9" value="自动获得100积分" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="250" width="140" height="35" as="geometry" />
+          <mxGeometry x="640" y="285" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="rbofEBhgAy4hswmdLueh-11" value="客人离店" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="462.5" width="80" height="30" as="geometry" />
@@ -60,7 +60,7 @@
         </mxCell>
         <mxCell id="WRIWoyoz8QD9gwkPITXm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbofEBhgAy4hswmdLueh-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="290" as="targetPoint" />
+            <mxPoint x="530" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rbofEBhgAy4hswmdLueh-19" value="注册成功后添加员工名称到客人信息中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
