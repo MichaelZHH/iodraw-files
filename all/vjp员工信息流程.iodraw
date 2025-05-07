@@ -10,9 +10,6 @@
         <mxCell id="rbofEBhgAy4hswmdLueh-3" value="扫码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="270" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="WRIWoyoz8QD9gwkPITXm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbofEBhgAy4hswmdLueh-4" target="WRIWoyoz8QD9gwkPITXm-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rbofEBhgAy4hswmdLueh-4" value="客人进店" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="210" width="80" height="30" as="geometry" />
         </mxCell>
